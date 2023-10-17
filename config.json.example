@@ -1,0 +1,26 @@
+{
+    "thresholds": {
+        "cpu": 50,
+        "memory": 80,
+        "disk": 75,
+        "network": 104857600
+    },
+    "slack_webhook_url": "SLACK_WEBHOOK_URL",
+    "email": {
+        "sender": "your-email@gmail.com",
+        "receiver": "receiver-email@gmail.com",
+        "smtp_server": "smtp.gmail.com",
+        "smtp_port": 587,
+        "username": "your-email@gmail.com",
+        "password": "your-password"
+    },
+    "services": ["docker","smbd"],
+    "docker_containers": ["nginx_1", "mysql_1"],
+    "notifications": {
+	"slack": true,
+	"email": false,
+	"log": true
+    },
+    "log_retention_days": 30
+}
+

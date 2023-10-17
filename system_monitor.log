@@ -1,0 +1,282 @@
+2023-10-13 12:39:52,159 - Executando verificações do sistema...
+2023-10-13 12:39:53,382 - Tráfego de rede elevado detectado: 2155.41 MB
+2023-10-13 12:39:53,620 - O serviço docker está ativo.
+2023-10-13 12:39:55,101 - ALERTA: O container do Docker intelligent_gagarin (e464871c8a18) não está em execução!
+2023-10-13 12:39:55,321 - ALERTA: O container do Docker horusec-api (28aaf5f70fd0) não está em execução!
+2023-10-13 12:39:55,531 - ALERTA: O container do Docker horusec-core (7aa1f2a9bf33) não está em execução!
+2023-10-13 12:39:55,748 - ALERTA: O container do Docker horusec-analytic (db18bf9e7c77) não está em execução!
+2023-10-13 12:39:55,956 - ALERTA: O container do Docker horusec-webhook (8325042a35f8) não está em execução!
+2023-10-13 12:39:56,167 - ALERTA: O container do Docker horusec-auth (cba3638806fd) não está em execução!
+2023-10-13 12:39:56,376 - ALERTA: O container do Docker horusec-messages (bb8d3542d1a7) não está em execução!
+2023-10-13 12:39:56,587 - ALERTA: O container do Docker horusec-vulnerability (7a140057d2ed) não está em execução!
+2023-10-13 12:39:56,799 - ALERTA: O container do Docker rabbit (87ac6031ff42) não está em execução!
+2023-10-13 12:39:57,011 - ALERTA: O container do Docker horusec_postgresql (48fbf407b60b) não está em execução!
+2023-10-13 12:39:57,226 - ALERTA: O container do Docker horusec-manager (3b982f0aeb94) não está em execução!
+2023-10-13 12:39:57,437 - ALERTA: O container do Docker horusec-control-plane (cf38a517c6f9) não está em execução!
+2023-10-13 12:39:57,656 - ALERTA: O container do Docker tender_euler (079e4ed132c3) não está em execução!
+2023-10-13 12:39:57,871 - ALERTA: O container do Docker jovial_beaver (a2a8c8655e5e) não está em execução!
+2023-10-13 12:39:58,097 - ALERTA: O container do Docker dreamy_dirac (e85591bfd5e8) não está em execução!
+2023-10-13 12:39:58,338 - ALERTA: O container do Docker brave_stonebraker (a9abaa285cc3) não está em execução!
+2023-10-13 12:39:58,593 - ALERTA: O container do Docker hardcore_cohen (6e04ce996be7) não está em execução!
+2023-10-13 12:39:58,813 - ALERTA: O container do Docker trusting_dirac (d5c080b5ae4c) não está em execução!
+2023-10-13 12:39:59,028 - ALERTA: O container do Docker thirsty_elgamal (052712c46fd0) não está em execução!
+2023-10-13 12:39:59,248 - ALERTA: O container do Docker competent_shaw (a697fe5dd616) não está em execução!
+2023-10-13 12:39:59,463 - ALERTA: O container do Docker gracious_taussig (d42ba77bf07d) não está em execução!
+2023-10-13 12:39:59,677 - ALERTA: O container do Docker elated_goldstine (bb7ab218dcd3) não está em execução!
+2023-10-13 12:39:59,885 - ALERTA: O container do Docker focused_black (c29df0ab68b8) não está em execução!
+2023-10-13 12:40:00,117 - ALERTA: O container do Docker hopeful_euclid (85bc257f325f) não está em execução!
+2023-10-13 12:40:00,491 - ALERTA: O container do Docker goofy_meitner (a37a4fc6c4ff) não está em execução!
+2023-10-13 12:40:00,697 - ALERTA: O container do Docker pensive_kalam (4cdb69d1c278) não está em execução!
+2023-10-13 12:40:00,922 - ALERTA: O container do Docker focused_taussig (3c59ca0fb17d) não está em execução!
+2023-10-13 12:40:01,154 - ALERTA: O container do Docker busy_greider (9c842063dcee) não está em execução!
+2023-10-13 12:40:01,387 - ALERTA: O container do Docker compassionate_goldstine (b75aaa7f1f36) não está em execução!
+2023-10-13 12:40:01,611 - ALERTA: O container do Docker strange_hawking (ed017322c2b9) não está em execução!
+2023-10-13 12:40:01,825 - ALERTA: O container do Docker upbeat_hodgkin (0a2f136496b2) não está em execução!
+2023-10-13 12:40:02,033 - ALERTA: O container do Docker gallant_lewin (68e37fa47f38) não está em execução!
+2023-10-13 12:40:02,241 - ALERTA: O container do Docker infallible_hugle (ad62d0195fbe) não está em execução!
+2023-10-13 12:40:02,447 - ALERTA: O container do Docker quizzical_dhawan (1efd1e8bb5c5) não está em execução!
+2023-10-13 12:40:02,657 - ALERTA: O container do Docker sharp_euler (0e4c9c60f0bd) não está em execução!
+2023-10-13 12:40:02,867 - ALERTA: O container do Docker xenodochial_zhukovsky (a61f28f99a01) não está em execução!
+2023-10-13 12:40:03,079 - ALERTA: O container do Docker angry_hoover (6fd316e97e94) não está em execução!
+2023-10-13 12:40:03,297 - ALERTA: O container do Docker stupefied_ride (2a0e3adde41a) não está em execução!
+2023-10-13 12:40:03,512 - ALERTA: O container do Docker happy_buck (c3327592e059) não está em execução!
+2023-10-13 12:40:03,796 - ALERTA: O container do Docker awesome_cohen (c98e8c4f87a4) não está em execução!
+2023-10-13 12:40:04,032 - ALERTA: O container do Docker amazing_morse (47394230138f) não está em execução!
+2023-10-13 12:40:04,251 - ALERTA: O container do Docker xenodochial_wing (1b63090a1b26) não está em execução!
+2023-10-13 12:40:04,458 - ALERTA: O container do Docker condescending_mclean (9ff7273588f2) não está em execução!
+2023-10-13 12:40:04,655 - ALERTA: O container do Docker gallant_hertz (e02009614a77) não está em execução!
+2023-10-13 12:40:04,869 - ALERTA: O container do Docker hungry_mendeleev (37ffbf09c1aa) não está em execução!
+2023-10-13 12:40:05,075 - ALERTA: O container do Docker nostalgic_ganguly (7cd7c5405a63) não está em execução!
+2023-10-13 12:40:05,298 - ALERTA: O container do Docker gifted_meitner (a8bc0bf217ff) não está em execução!
+2023-10-13 12:40:05,522 - ALERTA: O container do Docker friendly_darwin (c00106bcb8b6) não está em execução!
+2023-10-13 12:40:05,720 - ALERTA: O container do Docker hopeful_wiles (7dc98244c6b2) não está em execução!
+2023-10-13 12:40:05,928 - ALERTA: O container do Docker sleepy_pascal (745e0fe3f353) não está em execução!
+2023-10-13 12:40:06,169 - ALERTA: O container do Docker nifty_elgamal (ed8fa930b168) não está em execução!
+2023-10-13 12:40:06,445 - ALERTA: O container do Docker strange_lamport (582e4be883e6) não está em execução!
+2023-10-13 12:40:06,645 - ALERTA: O container do Docker jolly_moore (7ec5550aa32b) não está em execução!
+2023-10-13 12:40:06,851 - ALERTA: O container do Docker blissful_davinci (2692297fa7d9) não está em execução!
+2023-10-13 12:40:07,059 - ALERTA: O container do Docker reverent_jemison (fc7eb17fc773) não está em execução!
+2023-10-13 12:40:07,270 - ALERTA: O container do Docker epic_bartik (4a27ecfc82eb) não está em execução!
+2023-10-13 12:40:07,485 - ALERTA: O container do Docker funny_shtern (d439651fd61f) não está em execução!
+2023-10-13 12:40:07,698 - ALERTA: O container do Docker eager_margulis (2113b5624458) não está em execução!
+2023-10-13 12:40:07,921 - ALERTA: O container do Docker objective_hugle (1f41f02eab48) não está em execução!
+2023-10-13 12:40:08,139 - ALERTA: O container do Docker priceless_mclaren (279fc9813642) não está em execução!
+2023-10-13 12:40:08,359 - ALERTA: O container do Docker nervous_fermat (695dbad5189b) não está em execução!
+2023-10-13 12:40:08,967 - ALERTA: O container do Docker epic_wilbur (50fc2ab88c42) não está em execução!
+2023-10-13 12:40:09,209 - ALERTA: O container do Docker recursing_leavitt (ef50af515d82) não está em execução!
+2023-10-13 12:40:09,444 - ALERTA: O container do Docker frosty_solomon (01c25ff04986) não está em execução!
+2023-10-13 12:40:09,657 - ALERTA: O container do Docker elegant_bose (bcd938cc9c61) não está em execução!
+2023-10-13 12:40:09,871 - ALERTA: O container do Docker elegant_bouman (fe90bb64f1ff) não está em execução!
+2023-10-13 12:40:10,096 - ALERTA: O container do Docker hungry_maxwell (2fa5cbe41aeb) não está em execução!
+2023-10-13 12:40:10,311 - ALERTA: O container do Docker boring_carver (39f6bf7cfda9) não está em execução!
+2023-10-13 12:40:10,497 - ALERTA: O container do Docker pedantic_banzai (f6d898d5c181) não está em execução!
+2023-10-13 12:40:10,683 - ALERTA: O container do Docker sleepy_williamson (fc0218d94881) não está em execução!
+2023-10-13 12:40:10,875 - ALERTA: O container do Docker interesting_noyce (517e7012ac8b) não está em execução!
+2023-10-13 12:40:11,067 - ALERTA: O container do Docker gallant_nightingale (e1747c9a6a25) não está em execução!
+2023-10-13 12:40:11,304 - ALERTA: O container do Docker thirsty_grothendieck (78caff8be455) não está em execução!
+2023-10-13 12:40:11,496 - ALERTA: O container do Docker happy_jennings (699b8408a7a5) não está em execução!
+2023-10-13 12:40:11,687 - ALERTA: O container do Docker eager_bouman (8b76a189ec0e) não está em execução!
+2023-10-13 12:40:11,875 - ALERTA: O container do Docker laradock_memcached_1 (dc82ed62abd8) não está em execução!
+2023-10-13 12:40:12,064 - ALERTA: O container do Docker laradock_nginx_1 (88d1aee03f7e) não está em execução!
+2023-10-13 12:40:12,277 - ALERTA: O container do Docker laradock_php-fpm_1 (b15beda6f8d4) não está em execução!
+2023-10-13 12:40:12,472 - ALERTA: O container do Docker laradock_redis_1 (397c3e2bf4bd) não está em execução!
+2023-10-13 12:40:12,657 - ALERTA: O container do Docker laradock_mongo_1 (e78998c84ead) não está em execução!
+2023-10-13 12:40:12,857 - ALERTA: O container do Docker laradock_neo4j_1 (9e3f130dea32) não está em execução!
+2023-10-13 12:40:13,053 - ALERTA: O container do Docker laradock_workspace_1 (fc7c92e0b48a) não está em execução!
+2023-10-13 12:40:13,287 - ALERTA: O container do Docker affectionate_blackwell (f3a967189d7e) não está em execução!
+2023-10-13 12:40:13,480 - ALERTA: O container do Docker dependency-track_dtrack-frontend_1 (9eaab9a80ebb) não está em execução!
+2023-10-13 12:40:13,694 - ALERTA: O container do Docker dependency-track_dtrack-apiserver_1 (1c05ab96a652) não está em execução!
+2023-10-13 12:40:13,877 - ALERTA: O container do Docker single-node_wazuh.manager_1 (20bceb93c724) não está em execução!
+2023-10-13 12:40:14,069 - ALERTA: O container do Docker single-node_wazuh.indexer_1 (af21cd9153f3) não está em execução!
+2023-10-13 12:40:14,295 - ALERTA: O container do Docker sonarqube_sonarqube_1 (3cbf85072589) não está em execução!
+2023-10-13 12:40:14,496 - ALERTA: O container do Docker 4ac894bb0365_sonarqube_sonarqube_1 (4ac894bb0365) não está em execução!
+2023-10-13 12:40:14,687 - ALERTA: O container do Docker sonarqube_db_1 (b32e8f7d2d14) não está em execução!
+2023-10-13 12:40:14,878 - ALERTA: O container do Docker dreamy_euler (5574c936469a) não está em execução!
+2023-10-13 12:40:15,078 - ALERTA: O container do Docker focused_lalande (29e710d36f4e) não está em execução!
+2023-10-13 12:40:15,320 - ALERTA: O container do Docker laradock_docker-in-docker_1 (7a8604485463) não está em execução!
+2023-10-13 12:40:15,532 - ALERTA: O container do Docker laradock_mysql_1 (e13c9e30318a) não está em execução!
+2023-10-13 12:40:15,744 - ALERTA: O container do Docker portainer (4538a51189db) não está em execução!
+2023-10-13 12:40:16,088 - Verificações concluídas.
+2023-10-13 12:40:20,557 - Monitoramento interrompido pelo usuário.
+2023-10-13 13:16:18,234 - Executando verificações do sistema...
+2023-10-13 13:16:19,451 - Tráfego de rede elevado detectado: 2160.06 MB
+2023-10-13 13:16:19,695 - O serviço docker está ativo.
+2023-10-13 13:16:19,969 - ALERTA: O serviço smbd não está ativo!
+2023-10-13 13:16:19,977 - O container do Docker laradock_nginx_1 está em execução.
+2023-10-13 13:16:19,983 - O container do Docker laradock_mysql_1 está em execução.
+2023-10-13 13:16:20,194 - Verificações concluídas.
+2023-10-13 13:21:20,787 - Executando verificações do sistema...
+2023-10-13 13:21:22,012 - Tráfego de rede elevado detectado: 2160.25 MB
+2023-10-13 13:21:22,309 - O serviço docker está ativo.
+2023-10-13 13:21:22,554 - ALERTA: O serviço smbd não está ativo!
+2023-10-13 13:21:22,561 - O container do Docker laradock_nginx_1 está em execução.
+2023-10-13 13:21:22,566 - O container do Docker laradock_mysql_1 está em execução.
+2023-10-13 13:21:22,773 - Verificações concluídas.
+2023-10-13 13:26:23,376 - Executando verificações do sistema...
+2023-10-13 13:26:24,624 - Tráfego de rede elevado detectado: 2160.45 MB
+2023-10-13 13:26:24,908 - O serviço docker está ativo.
+2023-10-13 13:26:25,140 - ALERTA: O serviço smbd não está ativo!
+2023-10-13 13:26:25,146 - O container do Docker laradock_nginx_1 está em execução.
+2023-10-13 13:26:25,152 - O container do Docker laradock_mysql_1 está em execução.
+2023-10-13 13:26:25,372 - Verificações concluídas.
+2023-10-13 13:31:25,965 - Executando verificações do sistema...
+2023-10-13 13:31:27,222 - Tráfego de rede elevado detectado: 2160.68 MB
+2023-10-13 13:31:27,454 - O serviço docker está ativo.
+2023-10-13 13:31:27,685 - ALERTA: O serviço smbd não está ativo!
+2023-10-13 13:31:27,692 - O container do Docker laradock_nginx_1 está em execução.
+2023-10-13 13:31:27,698 - O container do Docker laradock_mysql_1 está em execução.
+2023-10-13 13:31:27,919 - Verificações concluídas.
+2023-10-13 13:36:28,496 - Executando verificações do sistema...
+2023-10-13 13:36:29,746 - Tráfego de rede elevado detectado: 2160.90 MB
+2023-10-13 13:36:29,974 - O serviço docker está ativo.
+2023-10-13 13:36:30,316 - ALERTA: O serviço smbd não está ativo!
+2023-10-13 13:36:30,322 - O container do Docker laradock_nginx_1 está em execução.
+2023-10-13 13:36:30,327 - O container do Docker laradock_mysql_1 está em execução.
+2023-10-13 13:36:30,541 - Verificações concluídas.
+2023-10-13 13:41:31,124 - Executando verificações do sistema...
+2023-10-13 13:41:32,378 - Tráfego de rede elevado detectado: 2161.10 MB
+2023-10-13 13:41:32,628 - O serviço docker está ativo.
+2023-10-13 13:41:32,868 - ALERTA: O serviço smbd não está ativo!
+2023-10-13 13:41:32,875 - O container do Docker laradock_nginx_1 está em execução.
+2023-10-13 13:41:32,880 - O container do Docker laradock_mysql_1 está em execução.
+2023-10-13 13:41:33,093 - Verificações concluídas.
+2023-10-13 13:46:33,691 - Executando verificações do sistema...
+2023-10-13 13:46:34,907 - Tráfego de rede elevado detectado: 2161.84 MB
+2023-10-13 13:46:35,145 - O serviço docker está ativo.
+2023-10-13 13:46:35,381 - O serviço smbd está ativo.
+2023-10-13 13:46:35,388 - O container do Docker laradock_nginx_1 está em execução.
+2023-10-13 13:46:35,394 - O container do Docker laradock_mysql_1 está em execução.
+2023-10-13 13:46:35,757 - Verificações concluídas.
+2023-10-13 13:51:36,353 - Executando verificações do sistema...
+2023-10-13 13:51:37,612 - Tráfego de rede elevado detectado: 2162.04 MB
+2023-10-13 13:51:37,845 - O serviço docker está ativo.
+2023-10-13 13:51:38,086 - O serviço smbd está ativo.
+2023-10-13 13:51:38,092 - O container do Docker laradock_nginx_1 está em execução.
+2023-10-13 13:51:38,098 - O container do Docker laradock_mysql_1 está em execução.
+2023-10-13 13:51:38,314 - Verificações concluídas.
+2023-10-13 13:56:38,906 - Executando verificações do sistema...
+2023-10-13 13:56:40,159 - Tráfego de rede elevado detectado: 2162.25 MB
+2023-10-13 13:56:40,412 - O serviço docker está ativo.
+2023-10-13 13:56:40,649 - O serviço smbd está ativo.
+2023-10-13 13:56:40,656 - O container do Docker laradock_nginx_1 está em execução.
+2023-10-13 13:56:40,661 - O container do Docker laradock_mysql_1 está em execução.
+2023-10-13 13:56:40,877 - Verificações concluídas.
+2023-10-13 14:01:41,525 - Executando verificações do sistema...
+2023-10-13 14:01:42,741 - Tráfego de rede elevado detectado: 2162.45 MB
+2023-10-13 14:01:42,989 - O serviço docker está ativo.
+2023-10-13 14:01:43,216 - O serviço smbd está ativo.
+2023-10-13 14:01:43,223 - O container do Docker laradock_nginx_1 está em execução.
+2023-10-13 14:01:43,228 - O container do Docker laradock_mysql_1 está em execução.
+2023-10-13 14:01:43,497 - Verificações concluídas.
+2023-10-13 14:06:44,065 - Executando verificações do sistema...
+2023-10-13 14:06:45,286 - Tráfego de rede elevado detectado: 2162.65 MB
+2023-10-13 14:06:45,517 - O serviço docker está ativo.
+2023-10-13 14:06:45,755 - O serviço smbd está ativo.
+2023-10-13 14:06:45,762 - O container do Docker laradock_nginx_1 está em execução.
+2023-10-13 14:06:45,767 - O container do Docker laradock_mysql_1 está em execução.
+2023-10-13 14:06:45,997 - Verificações concluídas.
+2023-10-13 14:11:46,717 - Executando verificações do sistema...
+2023-10-13 14:11:47,968 - Tráfego de rede elevado detectado: 2162.85 MB
+2023-10-13 14:11:48,240 - O serviço docker está ativo.
+2023-10-13 14:11:48,485 - O serviço smbd está ativo.
+2023-10-13 14:11:48,492 - O container do Docker laradock_nginx_1 está em execução.
+2023-10-13 14:11:48,498 - O container do Docker laradock_mysql_1 está em execução.
+2023-10-13 14:11:48,752 - Verificações concluídas.
+2023-10-13 14:16:49,338 - Executando verificações do sistema...
+2023-10-13 14:16:50,609 - Tráfego de rede elevado detectado: 2163.04 MB
+2023-10-13 14:16:50,835 - O serviço docker está ativo.
+2023-10-13 14:16:51,068 - O serviço smbd está ativo.
+2023-10-13 14:16:51,075 - O container do Docker laradock_nginx_1 está em execução.
+2023-10-13 14:16:51,081 - O container do Docker laradock_mysql_1 está em execução.
+2023-10-13 14:16:51,301 - Verificações concluídas.
+2023-10-13 14:21:51,902 - Executando verificações do sistema...
+2023-10-13 14:21:53,169 - Tráfego de rede elevado detectado: 2163.25 MB
+2023-10-13 14:21:53,411 - O serviço docker está ativo.
+2023-10-13 14:21:53,657 - O serviço smbd está ativo.
+2023-10-13 14:21:53,664 - O container do Docker laradock_nginx_1 está em execução.
+2023-10-13 14:21:53,670 - O container do Docker laradock_mysql_1 está em execução.
+2023-10-13 14:21:53,908 - Verificações concluídas.
+2023-10-13 14:26:54,594 - Executando verificações do sistema...
+2023-10-13 14:26:55,806 - Tráfego de rede elevado detectado: 2163.45 MB
+2023-10-13 14:26:56,040 - O serviço docker está ativo.
+2023-10-13 14:26:56,272 - O serviço smbd está ativo.
+2023-10-13 14:26:56,279 - O container do Docker laradock_nginx_1 está em execução.
+2023-10-13 14:26:56,284 - O container do Docker laradock_mysql_1 está em execução.
+2023-10-13 14:26:56,496 - Verificações concluídas.
+2023-10-13 14:31:57,189 - Executando verificações do sistema...
+2023-10-13 14:31:58,439 - Tráfego de rede elevado detectado: 2163.65 MB
+2023-10-13 14:31:58,718 - O serviço docker está ativo.
+2023-10-13 14:31:58,980 - O serviço smbd está ativo.
+2023-10-13 14:31:58,987 - O container do Docker laradock_nginx_1 está em execução.
+2023-10-13 14:31:58,992 - O container do Docker laradock_mysql_1 está em execução.
+2023-10-13 14:31:59,209 - Verificações concluídas.
+2023-10-13 14:36:59,816 - Executando verificações do sistema...
+2023-10-13 14:37:01,055 - Tráfego de rede elevado detectado: 2163.83 MB
+2023-10-13 14:37:01,335 - O serviço docker está ativo.
+2023-10-13 14:37:01,571 - O serviço smbd está ativo.
+2023-10-13 14:37:01,578 - O container do Docker laradock_nginx_1 está em execução.
+2023-10-13 14:37:01,583 - O container do Docker laradock_mysql_1 está em execução.
+2023-10-13 14:37:01,799 - Verificações concluídas.
+2023-10-13 14:42:02,505 - Executando verificações do sistema...
+2023-10-13 14:42:03,718 - Tráfego de rede elevado detectado: 2164.02 MB
+2023-10-13 14:42:03,952 - O serviço docker está ativo.
+2023-10-13 14:42:04,184 - O serviço smbd está ativo.
+2023-10-13 14:42:04,191 - O container do Docker laradock_nginx_1 está em execução.
+2023-10-13 14:42:04,196 - O container do Docker laradock_mysql_1 está em execução.
+2023-10-13 14:42:04,423 - Verificações concluídas.
+2023-10-13 14:47:04,949 - Executando verificações do sistema...
+2023-10-13 14:47:06,166 - Tráfego de rede elevado detectado: 2164.20 MB
+2023-10-13 14:47:06,409 - O serviço docker está ativo.
+2023-10-13 14:47:06,647 - O serviço smbd está ativo.
+2023-10-13 14:47:06,654 - O container do Docker laradock_nginx_1 está em execução.
+2023-10-13 14:47:06,659 - O container do Docker laradock_mysql_1 está em execução.
+2023-10-13 14:47:06,900 - Verificações concluídas.
+2023-10-13 14:52:07,551 - Executando verificações do sistema...
+2023-10-13 14:52:08,823 - Tráfego de rede elevado detectado: 2164.40 MB
+2023-10-13 14:52:09,051 - O serviço docker está ativo.
+2023-10-13 14:52:09,289 - O serviço smbd está ativo.
+2023-10-13 14:52:09,296 - O container do Docker laradock_nginx_1 está em execução.
+2023-10-13 14:52:09,301 - O container do Docker laradock_mysql_1 está em execução.
+2023-10-13 14:52:09,519 - Verificações concluídas.
+2023-10-13 14:57:10,118 - Executando verificações do sistema...
+2023-10-13 14:57:11,400 - Tráfego de rede elevado detectado: 2164.60 MB
+2023-10-13 14:57:11,636 - O serviço docker está ativo.
+2023-10-13 14:57:11,871 - O serviço smbd está ativo.
+2023-10-13 14:57:11,878 - O container do Docker laradock_nginx_1 está em execução.
+2023-10-13 14:57:11,884 - O container do Docker laradock_mysql_1 está em execução.
+2023-10-13 14:57:12,125 - Verificações concluídas.
+2023-10-13 15:02:12,723 - Executando verificações do sistema...
+2023-10-13 15:02:13,978 - Tráfego de rede elevado detectado: 2164.81 MB
+2023-10-13 15:02:14,245 - O serviço docker está ativo.
+2023-10-13 15:02:14,478 - O serviço smbd está ativo.
+2023-10-13 15:02:14,485 - O container do Docker laradock_nginx_1 está em execução.
+2023-10-13 15:02:14,490 - O container do Docker laradock_mysql_1 está em execução.
+2023-10-13 15:02:14,705 - Verificações concluídas.
+2023-10-13 15:07:15,378 - Executando verificações do sistema...
+2023-10-13 15:07:16,674 - Tráfego de rede elevado detectado: 2165.02 MB
+2023-10-13 15:07:16,963 - O serviço docker está ativo.
+2023-10-13 15:07:17,193 - O serviço smbd está ativo.
+2023-10-13 15:07:17,200 - O container do Docker laradock_nginx_1 está em execução.
+2023-10-13 15:07:17,205 - O container do Docker laradock_mysql_1 está em execução.
+2023-10-13 15:07:17,415 - Verificações concluídas.
+2023-10-13 15:12:18,017 - Executando verificações do sistema...
+2023-10-13 15:12:19,271 - Tráfego de rede elevado detectado: 2165.20 MB
+2023-10-13 15:12:19,504 - O serviço docker está ativo.
+2023-10-13 15:12:19,738 - O serviço smbd está ativo.
+2023-10-13 15:12:19,745 - O container do Docker laradock_nginx_1 está em execução.
+2023-10-13 15:12:19,750 - O container do Docker laradock_mysql_1 está em execução.
+2023-10-13 15:12:19,956 - Verificações concluídas.
+2023-10-13 15:17:20,549 - Executando verificações do sistema...
+2023-10-13 15:17:21,805 - Tráfego de rede elevado detectado: 2165.39 MB
+2023-10-13 15:17:22,073 - O serviço docker está ativo.
+2023-10-13 15:17:22,330 - O serviço smbd está ativo.
+2023-10-13 15:17:22,336 - O container do Docker laradock_nginx_1 está em execução.
+2023-10-13 15:17:22,342 - O container do Docker laradock_mysql_1 está em execução.
+2023-10-13 15:17:22,553 - Verificações concluídas.
+2023-10-13 15:22:23,167 - Executando verificações do sistema...
+2023-10-13 15:22:24,421 - Tráfego de rede elevado detectado: 2165.58 MB
+2023-10-13 15:22:24,652 - O serviço docker está ativo.
+2023-10-13 15:22:24,887 - O serviço smbd está ativo.
+2023-10-13 15:22:24,894 - O container do Docker laradock_nginx_1 está em execução.
+2023-10-13 15:22:24,899 - O container do Docker laradock_mysql_1 está em execução.
+2023-10-13 15:22:25,132 - Verificações concluídas.
