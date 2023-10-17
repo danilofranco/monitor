@@ -14,7 +14,16 @@
         "username": "your-email@gmail.com",
         "password": "your-password"
     },
-    "services": ["docker","smbd"],
+    "services": [
+        {
+            "name": "docker",
+            "auto_restart": true
+        },
+        {
+            "name": "smbd",
+            "auto_restart": true
+        }
+    ],
     "docker_containers": ["nginx_1", "mysql_1"],
     "notifications": {
 	"slack": true,

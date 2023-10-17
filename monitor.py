@@ -15,10 +15,6 @@ from datetime import datetime, timedelta
 with open('config.json') as config_file:
     config = json.load(config_file)
 
-# Configurar logging
-logging.basicConfig(filename='system_monitor.log', level=logging.INFO,
-                    format='%(asctime)s - %(message)s')
-
 # Conectar ao Docker Daemon
 client = docker.from_env()
 
@@ -78,15 +74,34 @@ def notify_email(subject, body):
 
 # Função para verificar o estado dos serviços
 def check_services():
-    services = config['services']
-    for service in services:
+    for service in config['services']:
+        service_name = service['name']
+        auto_restart = service.get('auto_restart', False) 
+
         try:
-            subprocess.check_call(["systemctl", "is-active", "--quiet", service])
-            message = f"O serviço {service} está ativo."
+            result = subprocess.run(['systemctl', 'is-active', service_name], stdout=subprocess.PIPE, stderr=subprocess.PIPE, universal_newlines=True)
+            status = result.stdout.strip()
+
+            if status != 'active':
+                message = f"ALERTA: O serviço {service_name} está {status}."
+                notify(message, f"Alerta de Serviço: {service_name}")
+                
+                if auto_restart:
+                    restart_result = subprocess.run(['sudo', 'systemctl', 'restart', service_name], stdout=subprocess.PIPE, stderr=subprocess.PIPE, universal_newlines=True)
+                    restart_status = restart_result.returncode
+
+                    if restart_status == 0:
+                        message = f"O serviço {service_name} foi reiniciado com sucesso."
+                    else:
+                        message = f"Falha ao reiniciar o serviço {service_name}. Erro: {restart_result.stderr}"
+
+                    notify(message, f"Status de Reinicialização do Serviço {service_name}")
+            else:
+                message = f"O serviço {service_name} está {status}."
+                logger.info(message)
+        except Exception as e:
+            message = f"Erro ao verificar o serviço {service_name}: {e}"
             notify(message)
-        except subprocess.CalledProcessError:
-            message = f"ALERTA: O serviço {service} não está ativo!"
-            notify(message, f"Alerta de Serviço: {service}")
 
 # Funções para verificar o uso do sistema
 def check_cpu_usage():
@@ -148,7 +163,7 @@ def run_health_checks():
     except Exception as e:
         notify(f"Erro durante as verificações: {e}")
 
-# Agendar verificações de saúde para serem executadas a cada minuto
+# Agendar verificações de saúde para serem executadas a cada 5 minutos
 schedule.every(5).minutes.do(run_health_checks)
 
 # Loop principal para executar tarefas agendadas
