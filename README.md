@@ -52,7 +52,16 @@ Edite o arquivo `config.json` para configurar os limites de alerta, canais de no
         "username": "your-email@gmail.com",
         "password": "your-password"
     },
-    "services": ["nginx", "mysql"],
+    "services": [
+        {
+            "name": "docker",
+            "auto_restart": true
+        },
+        {
+            "name": "smbd",
+            "auto_restart": true
+        }
+    ],
     "docker_containers": ["meu_container1", "meu_container2"],
     "log_retention_days": 30,
     "notifications": {

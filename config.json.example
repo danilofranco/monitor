@@ -24,7 +24,7 @@
             "auto_restart": true
         }
     ],
-    "docker_containers": ["nginx_1", "mysql_1"],
+    "docker_containers": ["meu_container1", "meu_container2"],
     "notifications": {
 	"slack": true,
 	"email": false,
